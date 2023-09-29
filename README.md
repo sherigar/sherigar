@@ -1,16 +1,27 @@
-### Hi there 👋
+![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?fit=1588%2C610&ssl=1s1600/2000_600px.gif)
 
-<!--
-**sherigar/sherigar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Dhrithi Sherigar</h1> 
+<h3 align="center">Hello! I am an undergraduate student with a never ending love for programming and a burning passion for Web development. </h3>
+<img align="right"alt="Coding"width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan45672&label=Profile%20views&color=0e75b6&style=flat" alt="darshan45672" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Clound Computing**
+
+- 🌱 I’m currently learning **Python and Web Development**
+
+- 👯 I’m looking to collaborate on 
+
+- 💬 Ask me about **programming related c, python, Web development**
+
+- 📫 How to reach me **sherigardhriti@gmail.com**
+
+- ⚡ Fun fact **I'm a humours extrovert**
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherigar&show_icons=true&locale=en&layout=compact" alt="sherigar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherigar&show_icons=true&locale=en" alt="sherigar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherigar&" alt="sherigar" /></p>
