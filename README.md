@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherigar&show_icons=true&locale=en" alt="sherigar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherigar&" alt="sherigar" /></p>
+
+[snake gif](https://github.com/sherigar/sherigar/blob/output/github-contribution-grid-snake.gif)
