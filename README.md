@@ -19,7 +19,18 @@
 - ⚡ Fun fact **I'm a humours extrovert**
 
 
+<br/>
+<br/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,javascript,java,python,vscode,github,eclipse,bash" />
+</div>
 
+<br/>
+<br/>
+<h2 align="center">Stats</h2>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherigar&show_icons=true&locale=en&layout=compact" alt="sherigar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherigar&show_icons=true&locale=en" alt="sherigar" /></p>
