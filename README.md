@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on 
 
-- 💬 Ask me about **programming related c, python, Web development**
+- 💬 Ask me about **programming related c, python basis, Web development**
 
 - 📫 How to reach me **sherigardhriti@gmail.com**
 
