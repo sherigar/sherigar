@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan45672&label=Profile%20views&color=0e75b6&style=flat" alt="darshan45672" /> </p>
 
-- 🔭 I’m currently working on **Clound Computing**
+- 🔭 I’m currently working on **Cloud Computing**
 
 - 🌱 I’m currently learning **Python and Web Development**
 
